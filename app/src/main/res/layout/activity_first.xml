@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.shazam.choreographerexample.FirstActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="16dp"
+        android:text="screen1"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display2"
+        tools:ignore="HardcodedText" />
+
+    <com.shazam.choreographerexample.animation.choreographer.FunkyView
+        android:id="@+id/button"
+        android:layout_width="@dimen/button_dimen"
+        android:layout_height="@dimen/button_dimen"
+        android:layout_gravity="center"
+        android:padding="@dimen/button_padding" />
+</FrameLayout>

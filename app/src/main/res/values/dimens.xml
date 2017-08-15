@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="button_dimen">200dp</dimen>
+    <dimen name="button_padding">8dp</dimen>
+</resources>
