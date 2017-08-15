@@ -1,6 +1,6 @@
 Shazam Choreographer example
 ======
-Sample project implementing the Choreographer/Renderer architecture described in [Behind the scenes of the Shazam animation](link incoming). 
+Sample project implementing the Choreographer/Renderer architecture described in [Behind the scenes of the Shazam animation](https://medium.com/@veniosg/behind-the-scenes-of-the-shazam-animation-9bc7f922b2be). 
  
 This project includes the following:
 * The full LiteAnimator implementation
