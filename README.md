@@ -9,6 +9,8 @@ This project includes the following:
 * Cross-activity transitions for animated Views
 * Renderer (as FunkyView)
 
+![](static/demo.gif)
+
 ---
 
 [Download the APK](https://github.com/shazam/choreographer-example/blob/master/ShazamChoreographerExample.apk)
