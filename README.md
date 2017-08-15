@@ -8,3 +8,7 @@ This project includes the following:
 * Intra-activity "animation type" transitions (using TransitioningChoreographer)
 * Cross-activity transitions for animated Views
 * Renderer (as FunkyView)
+
+---
+
+[Download the APK](https://github.com/shazam/choreographer-example/blob/master/ShazamChoreographerExample.apk)
